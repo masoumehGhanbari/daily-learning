@@ -7,7 +7,8 @@
 ### Table of Contents
 ---
 <!-- FOLDER LINKS -->
-<a href="./javaScript/" style="font-weight: bold; margin-bottom:200px;">❉ javaScript</a></br>
-<a href="./nextJs/" style="font-weight: bold; margin-bottom:200px;">❉ nextJs</a></br>
-<a href="./reactJs/" style="font-weight: bold; margin-bottom:200px;">❉ reactJs</a></br>
-<a href="./typeScript/" style="font-weight: bold; margin-bottom:200px;">❉ typeScript</a></br>
+- <a href="./javaScript/" >javaScript</a></br>
+  - <a href="./javaScript/JSBridge.md" >JSBridge</a></br>
+- <a href="./nextJs/" >nextJs</a></br>
+- <a href="./reactJs/" >reactJs</a></br>
+- <a href="./typeScript/" >typeScript</a></br>
