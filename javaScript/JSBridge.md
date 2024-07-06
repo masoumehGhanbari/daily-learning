@@ -1,9 +1,10 @@
 # JSBridge
 
 `JSBridge` serves as a bridge between `JS` and `Native`. In fact, JSBridge, also known as the Hybrid app technology, is a communication method between JS and Native. In JSBridge, Native calls JS only through a fixed bridge object, and vice versa.
+
 ![JSBridge](../assets/JSBridge.png)
 
-### SBridge Implementation Process
+### JSBridge Implementation Process
 The process of JSBridge implementation can be summarized as follows. An H5 page triggers a URL in some way and Native captures the URL for analysis. Native then performs the processing and calls the H5 JSBridge object for transfer and callback.
 
 #### ❗️ Since the native WebView/UIWebView controls have already achieved data communication with JS, why do we still need JSBridge?
