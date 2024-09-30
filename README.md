@@ -10,6 +10,7 @@
 - <a href="./javaScript/" >JavaScript</a></br>
   - <a href="./javaScript/JSBridge.md" >JSBridge</a></br>
   - <a href="./javaScript/valueTypes.md" >Value Types</a></br>
+  - <a href="./javaScript/valueTypes.md" >Mutable vs. Immutable</a></br>
 - <a href="./nextJs/" >NextJs</a></br>
 - <a href="./reactJs/" >ReactJs</a></br>
 - <a href="./typeScript/" >TypeScript</a></br>
