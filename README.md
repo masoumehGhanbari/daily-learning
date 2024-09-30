@@ -7,8 +7,9 @@
 ### Table of Contents
 ---
 <!-- FOLDER LINKS -->
-- <a href="./javaScript/" >javaScript</a></br>
+- <a href="./javaScript/" >JavaScript</a></br>
   - <a href="./javaScript/JSBridge.md" >JSBridge</a></br>
-- <a href="./nextJs/" >nextJs</a></br>
-- <a href="./reactJs/" >reactJs</a></br>
-- <a href="./typeScript/" >typeScript</a></br>
+  - <a href="./javaScript/valueTypes.md" >Value Types</a></br>
+- <a href="./nextJs/" >NextJs</a></br>
+- <a href="./reactJs/" >ReactJs</a></br>
+- <a href="./typeScript/" >TypeScript</a></br>
